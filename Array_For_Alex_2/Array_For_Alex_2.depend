@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518208504 source:c:\projects-old\array_for_alex_2\main.cpp
+	<iostream>
+	<stdio.h>
+
