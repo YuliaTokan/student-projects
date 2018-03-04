@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519935849 source:c:\projects-old\inversematrix\main.cpp
+	<iostream>
+	<cmath>
+
