@@ -106,6 +106,6 @@ bool Calculator:: is_finish()
     {
         return 0;
     }
-    else {cout << "Óâåäiòü âèðàç: ";
+    else {cout << "Ã“Ã¢Ã¥Ã¤iÃ²Ã¼ Ã¢Ã¨Ã°Ã Ã§: ";
         return 1;}
 }
