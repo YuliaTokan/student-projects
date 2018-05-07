@@ -6,18 +6,12 @@ int main()
 {
   setlocale(LC_ALL, "Russian");
   Calculator op;
-  cout << "Óâåäiòü âèðàç: ";
+  cout << "Ã“Ã¢Ã¥Ã¤iÃ²Ã¼ Ã¢Ã¨Ã°Ã Ã§: ";
   while(op.is_finish())
   {
     float res = op.expr();
-    cout << "Ðåçóëüòàò: " << res << endl;
+    cout << "ÃÃ¥Ã§Ã³Ã«Ã¼Ã²Ã Ã²: " << res << endl;
     cout<<endl;
   }
-  cout<<"Êiíåöü";
+  cout<<"ÃŠiÃ­Ã¥Ã¶Ã¼";
   }
-
-
-
-
-
-
